@@ -25,4 +25,13 @@ The **Simon Says** game is a fun and interactive memory game. The goal is to rep
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/somenjeet01/Simon-Says-Game.git.
+2.	Navigate to the project directory:
+          cd Simon-Says-Game
+3.	Open the index.html file in your browser to play the game.
+
+License:-
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact:-
+For any questions or feedback, feel free to contact me at somenjeet2004@gmail.com.
 
